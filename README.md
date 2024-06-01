@@ -11,7 +11,7 @@ This project is a portfolio and flashcards application built using React. It inc
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/wm23-flash-card-app.git
+   git clone https://github.com/your-username/flash-card-app.git
    ```
 
 2. Install dependencies.
