@@ -11,7 +11,7 @@ This project is a portfolio and flashcards application built using React. It inc
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/flash-card-app.git
+   git clone https://github.com/your-username/wm23-cards.git
    ```
 
 2. Install dependencies.
@@ -57,4 +57,4 @@ Starts a json-server to mock API responses. Data is read from *db.json*. The ser
 
 ## Links
 
-Link to GitHub Pages - [https://gunelaliyevaa.github.io/wm23-flash-card-app/](https://gunelaliyevaa.github.io/wm23-flash-card-app/)
+Link to GitHub Pages - [https://gunelaliyevaa.github.io/wm23-flash-cards/](https://gunelaliyevaa.github.io/wm23-flash-cards/)
