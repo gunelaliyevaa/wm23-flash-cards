@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.c07fe6bd.css",
-    "main.js": "/static/js/main.c6638b10.js",
+    "main.js": "/static/js/main.8b41e9a2.js",
     "static/media/light-ride.png": "/static/media/light-ride.0c17acbaec716b2746eb.png",
     "static/media/local-news.png": "/static/media/local-news.e9acdb00d123b2b16915.png",
     "static/media/products-website.png": "/static/media/products-website.89387d0bfb0f4643e36b.png",
     "static/media/hero-image1.jpg": "/static/media/hero-image1.0a24490c164f880fa5f4.jpg",
     "index.html": "/index.html",
     "main.c07fe6bd.css.map": "/static/css/main.c07fe6bd.css.map",
-    "main.c6638b10.js.map": "/static/js/main.c6638b10.js.map"
+    "main.8b41e9a2.js.map": "/static/js/main.8b41e9a2.js.map"
   },
   "entrypoints": [
     "static/css/main.c07fe6bd.css",
-    "static/js/main.c6638b10.js"
+    "static/js/main.8b41e9a2.js"
   ]
 }
